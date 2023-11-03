@@ -1,2 +1,2 @@
-# MRL_Project
-MRL Project - Reinforcement Learning library implemented in Arduino
+# RL_Project
+RL Project - Reinforcement Learning library implemented for STM32 with some examples in MATLAB
